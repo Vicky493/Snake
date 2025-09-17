@@ -9,13 +9,7 @@ This is a classic Snake game implemented in Python using the `curses` library. T
 - No additional packages are required as `curses` is included in the Python standard library on supported platforms.
 
 ## How to Run
-1. Save the game code in a file named `snake.py`.
-2. Open a terminal and navigate to the directory containing `snake.py`.
-3. Run the game using the command:
-   ```bash
-   python3 snake.py
-   ```
-4. Ensure your terminal window is at least 10x10 characters in size to avoid errors.
+
 
 ## Gameplay Instructions
 - **Objective**: Control the snake to eat food (represented by the π symbol) to increase your score. Avoid hitting the walls or the snake's own body.
